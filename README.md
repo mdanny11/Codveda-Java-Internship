@@ -12,7 +12,11 @@ Two tasks are required at each level. Keep each task in its own folder.
 
 ## Level 2
 
-Not started. Complete any two of: Employee Management, File Handling, Banking Application.
+| Task | Folder | Status |
+|---|---|---|
+| Employee Management | `level2/employee-management` | Complete |
+| Simple Banking Application | `level2/banking` | Complete |
+| File Handling | — | Not selected |
 
 ## Level 3
 
