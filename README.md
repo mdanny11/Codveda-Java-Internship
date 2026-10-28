@@ -20,7 +20,11 @@ Two tasks are required at each level. Keep each task in its own folder.
 
 ## Level 3
 
-Not started. Complete any two of: Library Management with JDBC, Multithreaded Chat, Binary Search Tree.
+| Task | Folder | Status |
+|---|---|---|
+| Binary Search Tree | `level3/binary-search-tree` | Complete |
+| Library Management with JDBC | `level3/library-jdbc` | Complete |
+| Multithreaded Chat | — | Not selected |
 
 ## Submission
 
